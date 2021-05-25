@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #BaselineOfMustache!
+SystemOrganization addCategory: #'BaselineOfMustache'!
