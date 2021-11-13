@@ -7,4 +7,4 @@ testSectionWithNonEmptyListContext
 			{ 'label' -> 'has 2' } asDictionary.
 			{ 'label' -> 'elements'} asDictionary 
 		}} asDictionary.
-	self assert: result = 'list has 2 elements trailer' 
+	self assert: result = 'list has 2 elements trailer'

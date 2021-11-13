@@ -1,3 +1,3 @@
 visiting
 accept: aVisitor 
-	aVisitor visitHtmlEscapedToken: self 
+	aVisitor visitHtmlEscapedToken: self

@@ -5,4 +5,4 @@ testSectionWithEmptyListContext
 	result := template value: { 
 		'list' -> {  
 		}} asDictionary.
-	self assert: result = 'list trailer' 
+	self assert: result = 'list trailer'

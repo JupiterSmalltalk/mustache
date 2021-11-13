@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "MustacheToken",
 	"category" : "Mustache-Core",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "MustacheHtmlEscapedToken",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "MustacheToken",
+	"type" : "normal" }

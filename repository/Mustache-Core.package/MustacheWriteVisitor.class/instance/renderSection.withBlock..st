@@ -7,4 +7,4 @@ renderSection: aSection withBlock: aBlock
 		self class new 
 			context: context;
 			visitCompositePart: aSection;
-			string ]) 
+			string ])

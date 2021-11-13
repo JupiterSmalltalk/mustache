@@ -1,3 +1,2 @@
 visiting
-visitHtmlEscapedToken: aMustacheHTMLEscapedToken 
-	
+visitHtmlEscapedToken: aMustacheHTMLEscapedToken

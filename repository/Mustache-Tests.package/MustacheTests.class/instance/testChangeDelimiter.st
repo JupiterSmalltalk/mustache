@@ -6,4 +6,4 @@ testChangeDelimiter
 		'name' -> 'simpletoken' . 
 		'delimiter' -> 'another' . 
 		'back' -> 'normal' } asDictionary .
-	self assert: result = 'This is a test for simpletoken  and something that uses another delimiter. And change it back to normal.'. 
+	self assert: result = 'This is a test for simpletoken  and something that uses another delimiter. And change it back to normal.'.

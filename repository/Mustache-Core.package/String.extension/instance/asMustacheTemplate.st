@@ -1,3 +1,3 @@
 *mustache-core
 asMustacheTemplate
-	^ MustacheTemplate on: self 
+	^ MustacheTemplate on: self

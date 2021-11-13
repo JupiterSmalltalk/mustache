@@ -5,4 +5,4 @@ testSectionWithStringContextUsingDot
 	result := template value: { 
 		'list' -> 'list'
 	} asDictionary.
-	self assert: result = 'before list after' 
+	self assert: result = 'before list after'

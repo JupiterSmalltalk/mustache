@@ -5,4 +5,4 @@ testSectionWithTrueContext
 	result := template value: { 
 		'list' -> true
 	} asDictionary.
-	self assert: result = 'list is displayed' 
+	self assert: result = 'list is displayed'

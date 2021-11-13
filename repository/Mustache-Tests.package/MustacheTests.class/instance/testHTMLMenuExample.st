@@ -15,4 +15,4 @@ testHTMLMenuExample
 	<li class="menuEntry active">second</li>
 	<li class="menuEntry">third</li>
 	
-</ul>' 
+</ul>'

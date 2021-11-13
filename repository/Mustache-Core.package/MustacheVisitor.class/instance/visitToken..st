@@ -1,4 +1,3 @@
 visiting
 visitToken: aMustacheToken
-	self visitHtmlEscapedToken: aMustacheToken  
-	
+	self visitHtmlEscapedToken: aMustacheToken

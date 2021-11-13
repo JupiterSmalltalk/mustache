@@ -1,3 +1,3 @@
 visiting
 visitSection: aMustacheSection 
-	self visitCompositePart: aMustacheSection 
+	self visitCompositePart: aMustacheSection

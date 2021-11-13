@@ -5,4 +5,4 @@ testInvertedSectionWithEmptyListContext
 	result := template value: { 
 		'list' -> { }
 	} asDictionary.
-	self assert: result = 'list is displayed' 
+	self assert: result = 'list is displayed'

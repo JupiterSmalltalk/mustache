@@ -5,4 +5,4 @@ testDictionaryInDictionary
 	result := template 
 		value: { 'person?' -> 
 			{ 'name' -> 'Jon' } asDictionary  } asDictionary.
-	self assert: result = ' Hi Jon! ' 
+	self assert: result = ' Hi Jon! '

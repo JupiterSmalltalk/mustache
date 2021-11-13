@@ -1,3 +1,2 @@
 visiting
-visitStringChunk: aMustacheStringChunk 
-	
+visitStringChunk: aMustacheStringChunk

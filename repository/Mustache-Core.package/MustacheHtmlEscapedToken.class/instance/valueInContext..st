@@ -1,3 +1,3 @@
 resolving
 valueInContext: anObject
-	^ (super valueInContext: anObject) asHTMLString 
+	^ (super valueInContext: anObject) asHTMLString

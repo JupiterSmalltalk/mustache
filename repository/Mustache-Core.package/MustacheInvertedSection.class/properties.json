@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "MustacheSection",
 	"category" : "Mustache-Core",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "MustacheInvertedSection",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "MustacheSection",
+	"type" : "normal" }

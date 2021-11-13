@@ -1,3 +1,3 @@
 adding
 addPart: aMustachePart
-	parts add: aMustachePart 
+	parts add: aMustachePart

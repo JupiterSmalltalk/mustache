@@ -6,5 +6,3 @@ testChainingOfContext
 		delegate: 'some string'.
 	result := template value: delegatingObject.
 	self assert: result equals: 'Text Some string text'
-	
-	

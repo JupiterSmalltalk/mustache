@@ -1,3 +1,3 @@
 visiting
 visitTemplate: aMustacheTemplate 
-	self visitCompositePart: aMustacheTemplate 
+	self visitCompositePart: aMustacheTemplate

@@ -6,4 +6,3 @@ testBlockSection
 		'name' -> 'Willy'.
 		'wrapped' -> [ :render | '<b>',  render value, '</b>' ]  } asDictionary  .
 	self assert: result = '<b> Willy is awesome </b>'.
-	

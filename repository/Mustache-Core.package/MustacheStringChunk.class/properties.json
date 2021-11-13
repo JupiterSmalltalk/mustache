@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "MustachePart",
 	"category" : "Mustache-Core",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
-		"string"
-	],
+		"string" ],
 	"name" : "MustacheStringChunk",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "MustachePart",
+	"type" : "normal" }

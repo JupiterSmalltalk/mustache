@@ -9,4 +9,4 @@ testPartialListContext
 		partials: (Dictionary new
 			at: 'partial' put: (MustacheTemplate on: 'including {{name}} item');
 			yourself) .
-	self assert: result = 'We can have a lists ( [ including first list item ]  [ including last list item ] ) .' 
+	self assert: result = 'We can have a lists ( [ including first list item ]  [ including last list item ] ) .'

@@ -5,4 +5,4 @@ testSectionWithDotAsTokenStringValue
 	result := template value: { 
 		'list' -> 'abc'
 	} asDictionary.
-	self assert: result = '<abc>' 
+	self assert: result = '<abc>'

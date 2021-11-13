@@ -4,4 +4,4 @@ compile
 	sequenceStart := [ 
 		self readStringChunk.
 		[ self readTag. sequenceStart ] ].
-	self readUpToEndUsing: sequenceStart 
+	self readUpToEndUsing: sequenceStart
