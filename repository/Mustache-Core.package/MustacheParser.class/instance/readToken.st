@@ -1,3 +1,6 @@
 reading
 readToken
-	^ (stream upToAll: self endDelimiter) trimBoth
+  | token |
+  token := (stream upToAll: self endDelimiter) trimBoth.
+  stream skip: self endDelimiter size.
+  ^ token
