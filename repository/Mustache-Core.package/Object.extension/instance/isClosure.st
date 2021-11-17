@@ -1,3 +1,0 @@
-*mustache-core
-isClosure
-  ^ false
